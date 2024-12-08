@@ -1,0 +1,17 @@
+apiRules:
+- include:
+    uidRegex: ^RTCube
+    type: Namespace
+- include:
+    uidRegex: ^Global
+    type: Namespace
+- exclude:
+    uidRegex: ^UnityEngine
+    type: Namespace
+- exclude:
+    uidRegex: ^UnityEditor
+    type: Namespace
+- exclude:
+    uidRegex: ^UniRx
+    type: Namespace
+    
