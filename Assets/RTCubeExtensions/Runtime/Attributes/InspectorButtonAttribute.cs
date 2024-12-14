@@ -6,7 +6,7 @@ using JetBrains.Annotations;
 namespace RTCube.Extensions
 {
 	/// <summary>
-	/// <see cref="T:RTCube.Extensions.Editor.Internal.GLEditor`1.DrawInspectorButtons"/> draws a button for
+	/// <see cref="T:RTCube.Extensions.Editor.Internal.RTCEditor`1.DrawInspectorButtons"/> draws a button for
 	/// each method marked with this attribute. This is also used by 
 	/// <see cref="T:RTCube.Extensions.Editor.GLMonoBehaviourEditor"/>.
 	/// </summary>
